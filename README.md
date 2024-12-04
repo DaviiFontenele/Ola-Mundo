@@ -1,9 +1,5 @@
 # Olá, Mundo!
- Primeiro Repositorio
 
- Repositorio Criado Durando uma aula.
-
- Essa linha foi adicionada no repositorio remoto
+## neste conteudo aprendi a fazer meu primeiro repositorio e a criar branch e a trabalhar nelas sem mecher na master
 
 
-essa linha eu acresentei 
